@@ -1,0 +1,57 @@
+# AI Over view
+
+txt:
+My reflection on AI is how it has affected me and my experience in this course.
+ 
+If I were able to keep this short, I would just say it was a double-edged sword
+  
+but of course, I’m here to elaborate. AI as a tool is very helpful in how it
+
+can add coding in certain aspects. It is especially helpful when it comes to 
+   
+debugging when it becomes difficult to find where a specific problem is or if
+
+ 
+you get an error that you don’t understand in your code. AI can tell you the
+
+error and it can even show you exactly where the error is. But the reason I
+      
+say it is a double-edged sword is how easy it is to become reliant. There 
+
+have actually been studies that have shown even just recently people who 
+
+use AI for a lot of their decisions in a day, actually experience, an overall
+
+decrease in brain function. And this is very true for AI in coding. Because 
+
+if you don’t try to figure certain things out on your own, or at least try to 
+
+understand where you went wrong, you don’t really understand what you’re typing
+
+or how you’re fixing it. This is especially true, when AI can write code for
+
+you, so you start to forget how to type the code and use different kinds of code.
+
+Because if AI writes the code for you, why do you need to know what any of it
+
+actually does? However, an experience I had with this project is that in some cases 
+
+if I try to figure it out on my own, and use AI to help rather than give an answer, 
+
+I could conclude quicker. An example I can give is with my do-over piece of coding. 
+
+I was having some trouble figuring it out and I was trying to use a flag that I was 
+
+unfamiliar with so I wanted to get some help. However, when I prompted it, it was right
+
+on how I could change things to make the code functional, but it would not have been how I wanted.
+
+I actually need to take the code and adjust it to put it at the bottom of the script instead of at
+
+the top, where it wanted to because I knew if I put it at the top, the do over code would run before
+
+the user could answer the question. So it would repeat the question before the question was prompted
+
+basically just doing the question once. And I caught that mistake before the AI did. But I used it to 
+
+help and my knowledge together to actually succeed.    
